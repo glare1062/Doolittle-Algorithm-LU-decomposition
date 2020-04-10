@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f9bb9f1-93e8-4eef-a63a-14d7e259a648" name="Default Changelist" comment="" />
+    <list default="true" id="8f9bb9f1-93e8-4eef-a63a-14d7e259a648" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aL4bJyLQz2J0Bd6Mkf9cQhlxFT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/Work/CW math/metody4-gauss-elimination" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -71,26 +80,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="738" y="106" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1586536557663" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1586539500598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586539500598" />
     <state x="933" y="170" key="FileChooserDialogImpl" timestamp="1586517987636">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586517987636" />
-    <state width="1515" height="347" key="GridCell.Tab.0.bottom" timestamp="1586538820123">
+    <state width="1515" height="347" key="GridCell.Tab.0.bottom" timestamp="1586539483469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="347" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586538820123" />
-    <state width="1515" height="347" key="GridCell.Tab.0.center" timestamp="1586538820123">
+    <state width="1515" height="347" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586539483469" />
+    <state width="1515" height="347" key="GridCell.Tab.0.center" timestamp="1586539483469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="347" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586538820123" />
-    <state width="1515" height="347" key="GridCell.Tab.0.left" timestamp="1586538820123">
+    <state width="1515" height="347" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586539483469" />
+    <state width="1515" height="347" key="GridCell.Tab.0.left" timestamp="1586539483468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="347" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586538820123" />
-    <state width="1515" height="347" key="GridCell.Tab.0.right" timestamp="1586538820123">
+    <state width="1515" height="347" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586539483468" />
+    <state width="1515" height="347" key="GridCell.Tab.0.right" timestamp="1586539483469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="347" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586538820123" />
+    <state width="1515" height="347" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586539483469" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586538678823">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

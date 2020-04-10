@@ -67,7 +67,10 @@ def calcX(Y, U):
         while (column >=0):
             sum = sum + (U[row][column] * X[column])
             column = column -1
-        X[row] = (Y[row] -sum)/ U[row][row]
+        if U[row][row] == 0.0:
+            raise ZeroDivisionError("Zero encountered at the matrix A diagonal.")
+        else:
+            X[row] = (Y[row] -sum)/ U[row][row]
         row-=1
 
     return X
