@@ -1,13 +1,14 @@
 import numpy as np
 
 
-def Doolittle(A, n):
+def calcLU(A):
+    n = len(A)
     # returns 0s in arrays of size for lower and upper matrices
     L = np.zeros((n, n), dtype=np.float64)
     U = np.zeros((n, n), dtype=np.float64)
 
     for row in range(0, n):
-        # to add 1 to each lower matrix
+        # to set 1 to each lower matrix
         L[row][row] = 1
 
         # calc value for upper matrix column vise
@@ -79,17 +80,15 @@ A = np.array([[5, 6, 2.3, 6],
               [9, 2, 3.5, 7],
               [3.5, 6, 2, 3],
               [1.5, 2, 1.5, 6]
-              ])  # define B
+              ])
 B = np.array([4, 5, 6.7, 7.8])
 
 
 
 
 if __name__ == '__main__':
-    n = len(A)
-    L, U = Doolittle(A,n)
+    L, U = calcLU(A)
     print("Matrix L: \n{} \nMatrix U: \n{}\n".format(L, U))
-
     Y= calcY(L,B)
     print("Matrix Y: \n{}\n".format(Y))
     X = calcX(Y,U)
