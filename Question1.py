@@ -122,7 +122,7 @@ A2 = np.array([[0, -3, 7],
                ])
 
 if __name__ == '__main__':
-    L, U = calcLU(A2)
+    L, U = calcLU(A)
     print("Matrix L: \n{} \nMatrix U: \n{}\n".format(L, U))
     # Y = calcY(L, B)
     # print("Matrix Y: \n{}\n".format(Y))
